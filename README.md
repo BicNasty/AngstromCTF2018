@@ -8,7 +8,7 @@ The hint on this being that this file was too large. The file size defintely did
   
 **1.06 MB for a small GIF that doesn't work?**
   
- I changed the extension to .zip and .rar seeing the size. Nothing. I also tried changing to .PDF and nothing. I looked at the hex with HdX and saw some oddness.  
+ I changed the extension to .zip and .rar seeing the size. Nothing. I also tried changing to .PDF and nothing. I also ran this through StegSolve and wasn't able to find anything of note. !! Then, I looked at the hex with HdX and saw some oddness.  
    
  ![alt text](https://github.com/BicNasty/AngstromCTF2018/blob/master/JiggsHex.png)
    
